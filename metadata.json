@@ -1,0 +1,10 @@
+{
+  "name": "Remix MeshSync Offline Core",
+  "description": "A peer-to-peer mesh network for real-time location tracking, emergency SOS dispatch, and offline data synchronization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
